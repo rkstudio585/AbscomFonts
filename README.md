@@ -13,6 +13,7 @@ A comprehensive icon and styling framework with 1600+ icons, animations, color u
 - Color utilities
 - Transform utilities
 - Z-index controls
+- Icon Only support In `<i class={Icons_Class_Name}></i>` element
 
 ## Installation 📦
 0. See all available classes [click 📖](https://github.com/rkstudio585/AbscomFonts/blob/main/css-classes.txt) 
