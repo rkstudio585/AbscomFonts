@@ -139,4 +139,4 @@ The framework checks for:
 **Contact:** [rkriad585@outlook.com](mailto:rkriad585@outlook.com)  
 **License:** Free for personal and commercial use.
 
-> Made with ❤️ by RK Studio - Revolutionizing web icon solutions since 2023
+> Made with ❤️ by RK Studio - Revolutionizing web icon solutions since 2025
