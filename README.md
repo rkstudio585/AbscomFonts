@@ -15,7 +15,7 @@ A comprehensive icon and styling framework with 1600+ icons, animations, color u
 - Z-index controls
 
 ## Installation 📦
-
+0. See all available classes [click 📖](https://github.com/rkstudio585/AbscomFonts/blob/main/css-classes.txt) 
 1. Download `abscomfonts.js` from the project
 2. Add to your HTML:
 ```html
